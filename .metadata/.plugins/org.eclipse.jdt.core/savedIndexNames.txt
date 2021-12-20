@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Admin\Documents\Digital Innovation One -DIO\Bootcamp-Spread Java Developer\Dominando IDEs Java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2314513506.index
+1872563506.index
